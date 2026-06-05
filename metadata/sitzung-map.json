@@ -1,0 +1,816 @@
+{
+  "period": 8,
+  "sitzung_offset": 2,
+  "sitzungsperioden": [
+    {
+      "sp": 1,
+      "sittings": [
+        {
+          "sitzung": 3,
+          "date": "2021-07-06",
+          "section": 0
+        }
+      ]
+    },
+    {
+      "sp": 2,
+      "sittings": [
+        {
+          "sitzung": 4,
+          "date": "2021-09-16",
+          "section": 0
+        },
+        {
+          "sitzung": 5,
+          "date": "2021-09-17",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 3,
+      "sittings": [
+        {
+          "sitzung": 6,
+          "date": "2021-10-14",
+          "section": 0
+        },
+        {
+          "sitzung": 7,
+          "date": "2021-10-15",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 4,
+      "sittings": [
+        {
+          "sitzung": 8,
+          "date": "2021-11-18",
+          "section": 0
+        },
+        {
+          "sitzung": 9,
+          "date": "2021-11-19",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 5,
+      "sittings": [
+        {
+          "sitzung": 10,
+          "date": "2021-12-14",
+          "section": 0
+        },
+        {
+          "sitzung": 11,
+          "date": "2021-12-15",
+          "section": 1
+        },
+        {
+          "sitzung": 12,
+          "date": "2021-12-16",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 6,
+      "sittings": [
+        {
+          "sitzung": 13,
+          "date": "2022-01-27",
+          "section": 0
+        },
+        {
+          "sitzung": 14,
+          "date": "2022-01-28",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 7,
+      "sittings": [
+        {
+          "sitzung": 15,
+          "date": "2022-02-24",
+          "section": 0
+        },
+        {
+          "sitzung": 16,
+          "date": "2022-02-25",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 8,
+      "sittings": [
+        {
+          "sitzung": 17,
+          "date": "2022-03-07",
+          "section": 0
+        }
+      ]
+    },
+    {
+      "sp": 9,
+      "sittings": [
+        {
+          "sitzung": 18,
+          "date": "2022-03-24",
+          "section": 0
+        },
+        {
+          "sitzung": 19,
+          "date": "2022-03-25",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 10,
+      "sittings": [
+        {
+          "sitzung": 20,
+          "date": "2022-04-28",
+          "section": 0
+        },
+        {
+          "sitzung": 21,
+          "date": "2022-04-29",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 11,
+      "sittings": [
+        {
+          "sitzung": 22,
+          "date": "2022-05-18",
+          "section": 0
+        },
+        {
+          "sitzung": 23,
+          "date": "2022-05-19",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 12,
+      "sittings": [
+        {
+          "sitzung": 24,
+          "date": "2022-06-21",
+          "section": 0
+        },
+        {
+          "sitzung": 25,
+          "date": "2022-06-22",
+          "section": 1
+        },
+        {
+          "sitzung": 26,
+          "date": "2022-06-23",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 13,
+      "sittings": [
+        {
+          "sitzung": 27,
+          "date": "2022-09-07",
+          "section": 0
+        },
+        {
+          "sitzung": 28,
+          "date": "2022-09-08",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 14,
+      "sittings": [
+        {
+          "sitzung": 29,
+          "date": "2022-10-12",
+          "section": 0
+        },
+        {
+          "sitzung": 30,
+          "date": "2022-10-13",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 15,
+      "sittings": [
+        {
+          "sitzung": 31,
+          "date": "2022-11-17",
+          "section": 0
+        },
+        {
+          "sitzung": 32,
+          "date": "2022-11-18",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 16,
+      "sittings": [
+        {
+          "sitzung": 33,
+          "date": "2022-12-13",
+          "section": 0
+        },
+        {
+          "sitzung": 34,
+          "date": "2022-12-14",
+          "section": 1
+        },
+        {
+          "sitzung": 35,
+          "date": "2022-12-15",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 17,
+      "sittings": [
+        {
+          "sitzung": 36,
+          "date": "2023-01-26",
+          "section": 0
+        },
+        {
+          "sitzung": 37,
+          "date": "2023-01-27",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 18,
+      "sittings": [
+        {
+          "sitzung": 38,
+          "date": "2023-02-23",
+          "section": 0
+        },
+        {
+          "sitzung": 39,
+          "date": "2023-02-24",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 19,
+      "sittings": [
+        {
+          "sitzung": 40,
+          "date": "2023-03-22",
+          "section": 0
+        },
+        {
+          "sitzung": 41,
+          "date": "2023-03-23",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 20,
+      "sittings": [
+        {
+          "sitzung": 42,
+          "date": "2023-04-27",
+          "section": 0
+        },
+        {
+          "sitzung": 43,
+          "date": "2023-04-28",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 21,
+      "sittings": [
+        {
+          "sitzung": 44,
+          "date": "2023-06-01",
+          "section": 0
+        },
+        {
+          "sitzung": 45,
+          "date": "2023-06-02",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 22,
+      "sittings": [
+        {
+          "sitzung": 46,
+          "date": "2023-06-28",
+          "section": 0
+        },
+        {
+          "sitzung": 47,
+          "date": "2023-06-29",
+          "section": 1
+        },
+        {
+          "sitzung": 48,
+          "date": "2023-06-30",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 23,
+      "sittings": [
+        {
+          "sitzung": 49,
+          "date": "2023-09-07",
+          "section": 0
+        },
+        {
+          "sitzung": 50,
+          "date": "2023-09-08",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 24,
+      "sittings": [
+        {
+          "sitzung": 51,
+          "date": "2023-10-12",
+          "section": 0
+        },
+        {
+          "sitzung": 52,
+          "date": "2023-10-13",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 25,
+      "sittings": [
+        {
+          "sitzung": 53,
+          "date": "2023-11-09",
+          "section": 0
+        },
+        {
+          "sitzung": 54,
+          "date": "2023-11-10",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 26,
+      "sittings": [
+        {
+          "sitzung": 55,
+          "date": "2023-12-11",
+          "section": 0
+        },
+        {
+          "sitzung": 56,
+          "date": "2023-12-12",
+          "section": 1
+        },
+        {
+          "sitzung": 57,
+          "date": "2023-12-13",
+          "section": 2
+        },
+        {
+          "sitzung": 58,
+          "date": "2023-12-14",
+          "section": 3
+        }
+      ]
+    },
+    {
+      "sp": 27,
+      "sittings": [
+        {
+          "sitzung": 59,
+          "date": "2024-01-25",
+          "section": 0
+        },
+        {
+          "sitzung": 60,
+          "date": "2024-01-26",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 28,
+      "sittings": [
+        {
+          "sitzung": 61,
+          "date": "2024-02-21",
+          "section": 0
+        },
+        {
+          "sitzung": 62,
+          "date": "2024-02-22",
+          "section": 1
+        },
+        {
+          "sitzung": 63,
+          "date": "2024-02-23",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 29,
+      "sittings": [
+        {
+          "sitzung": 64,
+          "date": "2024-03-20",
+          "section": 0
+        },
+        {
+          "sitzung": 65,
+          "date": "2024-03-21",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 30,
+      "sittings": [
+        {
+          "sitzung": 66,
+          "date": "2024-04-23",
+          "section": 0
+        },
+        {
+          "sitzung": 67,
+          "date": "2024-04-24",
+          "section": 1
+        },
+        {
+          "sitzung": 68,
+          "date": "2024-04-25",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 31,
+      "sittings": [
+        {
+          "sitzung": 69,
+          "date": "2024-06-11",
+          "section": 0
+        },
+        {
+          "sitzung": 70,
+          "date": "2024-06-12",
+          "section": 1
+        },
+        {
+          "sitzung": 71,
+          "date": "2024-06-13",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 32,
+      "sittings": [
+        {
+          "sitzung": 72,
+          "date": "2024-08-22",
+          "section": 0
+        },
+        {
+          "sitzung": 73,
+          "date": "2024-08-23",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 33,
+      "sittings": [
+        {
+          "sitzung": 74,
+          "date": "2024-09-19",
+          "section": 0
+        },
+        {
+          "sitzung": 75,
+          "date": "2024-09-20",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 34,
+      "sittings": [
+        {
+          "sitzung": 76,
+          "date": "2024-10-23",
+          "section": 0
+        },
+        {
+          "sitzung": 77,
+          "date": "2024-10-24",
+          "section": 1
+        },
+        {
+          "sitzung": 78,
+          "date": "2024-10-25",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 35,
+      "sittings": [
+        {
+          "sitzung": 79,
+          "date": "2024-11-20",
+          "section": 0
+        },
+        {
+          "sitzung": 80,
+          "date": "2024-11-21",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 36,
+      "sittings": [
+        {
+          "sitzung": 81,
+          "date": "2024-12-17",
+          "section": 0
+        },
+        {
+          "sitzung": 82,
+          "date": "2024-12-18",
+          "section": 1
+        },
+        {
+          "sitzung": 83,
+          "date": "2024-12-19",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 37,
+      "sittings": [
+        {
+          "sitzung": 84,
+          "date": "2025-01-22",
+          "section": 0
+        },
+        {
+          "sitzung": 85,
+          "date": "2025-01-23",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 38,
+      "sittings": [
+        {
+          "sitzung": 86,
+          "date": "2025-02-20",
+          "section": 0
+        },
+        {
+          "sitzung": 87,
+          "date": "2025-02-21",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 39,
+      "sittings": [
+        {
+          "sitzung": 88,
+          "date": "2025-03-27",
+          "section": 0
+        },
+        {
+          "sitzung": 89,
+          "date": "2025-03-28",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 40,
+      "sittings": [
+        {
+          "sitzung": 90,
+          "date": "2025-05-13",
+          "section": 0
+        },
+        {
+          "sitzung": 91,
+          "date": "2025-05-14",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 41,
+      "sittings": [
+        {
+          "sitzung": 92,
+          "date": "2025-06-11",
+          "section": 0
+        },
+        {
+          "sitzung": 93,
+          "date": "2025-06-12",
+          "section": 1
+        },
+        {
+          "sitzung": 94,
+          "date": "2025-06-13",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 43,
+      "sittings": [
+        {
+          "sitzung": 95,
+          "date": "2025-09-10",
+          "section": 0
+        },
+        {
+          "sitzung": 96,
+          "date": "2025-09-11",
+          "section": 1
+        },
+        {
+          "sitzung": 97,
+          "date": "2025-09-12",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 44,
+      "sittings": [
+        {
+          "sitzung": 98,
+          "date": "2025-10-09",
+          "section": 0
+        },
+        {
+          "sitzung": 99,
+          "date": "2025-10-10",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 45,
+      "sittings": [
+        {
+          "sitzung": 100,
+          "date": "2025-11-13",
+          "section": 0
+        },
+        {
+          "sitzung": 101,
+          "date": "2025-11-14",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 46,
+      "sittings": [
+        {
+          "sitzung": 102,
+          "date": "2025-12-16",
+          "section": 0
+        },
+        {
+          "sitzung": 103,
+          "date": "2025-12-17",
+          "section": 1
+        },
+        {
+          "sitzung": 104,
+          "date": "2025-12-18",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 47,
+      "sittings": [
+        {
+          "sitzung": 105,
+          "date": "2026-01-28",
+          "section": 0
+        },
+        {
+          "sitzung": 106,
+          "date": "2026-01-29",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 48,
+      "sittings": [
+        {
+          "sitzung": 107,
+          "date": "2026-03-03",
+          "section": 0
+        },
+        {
+          "sitzung": 108,
+          "date": "2026-03-04",
+          "section": 1
+        },
+        {
+          "sitzung": 109,
+          "date": "2026-03-05",
+          "section": 2
+        }
+      ]
+    },
+    {
+      "sp": 49,
+      "sittings": [
+        {
+          "sitzung": 110,
+          "date": "2026-04-20",
+          "section": 0
+        }
+      ]
+    },
+    {
+      "sp": 50,
+      "sittings": [
+        {
+          "sitzung": 111,
+          "date": "2026-04-22",
+          "section": 0
+        },
+        {
+          "sitzung": 112,
+          "date": "2026-04-23",
+          "section": 1
+        }
+      ]
+    },
+    {
+      "sp": 51,
+      "sittings": [
+        {
+          "sitzung": 113,
+          "date": "2026-05-20",
+          "section": 0
+        },
+        {
+          "sitzung": 114,
+          "date": "2026-05-21",
+          "section": 1
+        }
+      ]
+    }
+  ]
+}
